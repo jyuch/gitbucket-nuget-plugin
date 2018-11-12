@@ -1,0 +1,5 @@
+name := "gitbucket-nuget-plugin"
+organization := "io.github.gitbucket"
+version := "1.0.0"
+scalaVersion := "2.12.7"
+gitbucketVersion := "4.29.0"
